@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\bin\Debug\CAPA_ACCESO.dll
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\bin\Debug\CAPA_ACCESO.pdb
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.dll
+C:\Users\pc\Desktop\VisualStudio\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.pdb
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\bin\Debug\CAPA_ACCESO.dll
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\bin\Debug\CAPA_ACCESO.pdb
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.csproj.AssemblyReference.cache
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.csproj.CoreCompileInputs.cache
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.dll
+C:\Users\SCPC508\Desktop\CAPA_PRESENTACION\CAPA_ACCESO\obj\Debug\CAPA_ACCESO.pdb
